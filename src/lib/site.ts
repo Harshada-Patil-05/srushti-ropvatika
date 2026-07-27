@@ -7,7 +7,7 @@ export const SITE = {
   name: "Shrushti Ropvatika",
   tagline: "A living nursery, rooted in care.",
   phone: "+91 98902 00992",
-  phoneRaw: "919890200992",
+  phoneRaw: "+91 98902 00992",
   email: "shrushtifarms@gmail.com",
   address: "shrushti farms, Plot No. 206/3, Ravet Village Rd, Sector 29, Shinde Vasti, Ravet, Pimpri-Chinchwad, Maharashtra 412101",
   hours: "Mon–Sun · 9:30 AM – 7:00 PM ",
