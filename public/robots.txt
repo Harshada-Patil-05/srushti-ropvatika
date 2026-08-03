@@ -1,5 +1,6 @@
 # https://www.robotstxt.org/robotstxt.html
+
 User-agent: *
 Allow: /
 
-Sitemap: https://srushti-ropvatika.vercel.app/sitemap.xml
+Sitemap: https://shrushtiropvatika.in/sitemap.xml
