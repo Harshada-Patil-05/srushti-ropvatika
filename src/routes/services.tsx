@@ -117,7 +117,7 @@ function Services() {
               <img
                 src={landscapeImg}
                 alt="Shrushti Ropvatika"
-                className="w-full h-[450px] object-cover"
+                className="w-full h-[260px] sm:h-[320px] md:h-[400px] lg:h-[450px] object-cover object-center"
               />
             </div>
           </motion.div>
