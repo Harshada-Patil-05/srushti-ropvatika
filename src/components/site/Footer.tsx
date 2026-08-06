@@ -79,12 +79,12 @@ export function Footer() {
         </div>
       </div>
       <div className="border-t border-primary-foreground/10">
-  <div className="container-x py-6 flex flex-col md:flex-row items-center justify-between gap-3 text-xs text-primary-foreground/60">
+  <div className="container-x pt-6 pb-24 md:py-6 flex flex-col md:flex-row items-center justify-between gap-3 text-xs text-primary-foreground/60">
     
     <p>© {new Date().getFullYear()} Shrushti Ropvatika. Grown with care.</p>
 
-    <p>
-      Designed & Developed by{" "}
+    <p className="text-center md:text-right leading-relaxed">
+       Designed & Developed by{" "}
       <a
         href="https://wa.me/917020735633?text=Hi%20Harshada,%20I%20visited%20the%20Shrushti%20Ropvatika%20website%20and%20would%20like%20to%20discuss%20building%20a%20website."
         target="_blank"
