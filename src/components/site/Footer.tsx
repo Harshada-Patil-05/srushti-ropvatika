@@ -86,7 +86,7 @@ export function Footer() {
     <p>
       Designed & Developed by{" "}
       <a
-        href="https://wa.me/919890200992?text=Hi%20Harshada,%20I%20visited%20the%20Shrushti%20Ropvatika%20website%20and%20would%20like%20to%20discuss%20building%20a%20website."
+        href="https://wa.me/917020735633?text=Hi%20Harshada,%20I%20visited%20the%20Shrushti%20Ropvatika%20website%20and%20would%20like%20to%20discuss%20building%20a%20website."
         target="_blank"
         rel="noopener noreferrer"
         className="font-medium text-primary-foreground hover:text-green-300 underline transition-colors"
