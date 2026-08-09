@@ -9,12 +9,14 @@ import indoor2 from "@/assets/indoor1.jpeg";
 import indoor3 from "@/assets/indoor4.jpeg";
 import indoor4 from "@/assets/indoor3.jpeg";
 import indoor5 from "@/assets/indoor5.png";
+import indoor6 from "@/assets/indoor6.png";
 
 // Outdoor
 import outdoor1 from "@/assets/cat-outdoor.jpg";
 import outdoor2 from "@/assets/outdoor1.jpeg";
 import outdoor3 from "@/assets/outdoor2.jpeg";
 import outdoor4 from "@/assets/outdoor3.jpeg";
+import outdoor5 from "@/assets/outdoor5.jpeg";
 
 // Pottery
 import pot1 from "@/assets/pot5.jpeg";
