@@ -16,7 +16,7 @@ import outdoor1 from "@/assets/cat-outdoor.jpg";
 import outdoor2 from "@/assets/outdoor1.jpeg";
 import outdoor3 from "@/assets/outdoor2.jpeg";
 import outdoor4 from "@/assets/outdoor3.jpeg";
-import outdoor5 from "@/assets/outdoor5.jpeg";
+import outdoor5 from "@/assets/outdoor5.png";
 
 // Pottery
 import pot1 from "@/assets/pot5.jpeg";
