@@ -81,5 +81,13 @@ This project was designed and developed based on the requirements of **Shrushti 
 | **Status**       | Active                   |
 
 ---
+## 👤 Author
+**Harshada Gulabrao Patil**  
+Full-Stack Web Developer  
+
+🔗 LinkedIn: [Harshada_Patil](https://www.linkedin.com/in/harshada-g-patil/)  
+📧 Email: harshupatil0405@gmail.com
+
+---
 
 ### 🌱 Built with technology and creativity for Shrushti Ropvatika.
