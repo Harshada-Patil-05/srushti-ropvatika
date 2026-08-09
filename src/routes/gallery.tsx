@@ -44,13 +44,13 @@ const sections = [
   {
     title: "Indoor Plants",
     subtitle: "Elegant indoor plants to refresh your home and office.",
-    images: [indoor1, indoor2, indoor3, indoor4, indoor5],
+    images: [indoor1, indoor2, indoor3, indoor4, indoor5, indoor6],
   },
   {
     title: "Outdoor Plants",
     subtitle:
       "Beautiful flowering and landscaping plants for every garden.",
-    images: [outdoor1, outdoor2, outdoor3, outdoor4],
+    images: [outdoor1, outdoor2, outdoor3, outdoor4, outdoor5],
   },
   {
     title: "Decorative Pottery",
