@@ -42,7 +42,7 @@ const sections = [
   {
     title: "Indoor Plants",
     subtitle: "Elegant indoor plants to refresh your home and office.",
-    images: [indoor1, indoor2, indoor3, indoor4],
+    images: [indoor1, indoor2, indoor3, indoor4, indoor5],
   },
   {
     title: "Outdoor Plants",
