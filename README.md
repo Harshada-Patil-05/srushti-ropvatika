@@ -8,7 +8,7 @@ A modern, responsive website developed for **Shrushti Ropvatika, Ravet, Pune**, 
 
 ## 🌐 Live Website
 
-👉 **[Visit Shrushti Ropvatika](YOUR-LIVE-WEBSITE-URL)**
+👉 **[Visit Shrushti Ropvatika](https://www.shrushtiropvatika.in/)**
 
 Explore the live website to learn more about the nursery, plants, services, gallery, plant-care information, and contact details.
 
