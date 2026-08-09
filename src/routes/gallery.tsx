@@ -8,6 +8,7 @@ import indoor1 from "@/assets/cat-indoor.jpg";
 import indoor2 from "@/assets/indoor1.jpeg";
 import indoor3 from "@/assets/indoor4.jpeg";
 import indoor4 from "@/assets/indoor3.jpeg";
+import indoor5 from "@/assets/indoor5.png";
 
 // Outdoor
 import outdoor1 from "@/assets/cat-outdoor.jpg";
