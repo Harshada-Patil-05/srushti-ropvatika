@@ -10,6 +10,8 @@ import indoor3 from "@/assets/indoor4.jpeg";
 import indoor4 from "@/assets/indoor3.jpeg";
 import indoor5 from "@/assets/indoor5.png";
 import indoor6 from "@/assets/indoor6.png";
+import indoor7 from "@/assets/indoor7.png";
+import indoor8 from "@/assets/indoor8.png";
 
 // Outdoor
 import outdoor1 from "@/assets/cat-outdoor.jpg";
@@ -44,7 +46,7 @@ const sections = [
   {
     title: "Indoor Plants",
     subtitle: "Elegant indoor plants to refresh your home and office.",
-    images: [indoor1, indoor2, indoor3, indoor4, indoor5, indoor6],
+    images: [indoor1, indoor2, indoor3, indoor4, indoor5, indoor6, indoor7, indoor8],
   },
   {
     title: "Outdoor Plants",
